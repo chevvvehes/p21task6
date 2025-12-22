@@ -1,0 +1,13 @@
+{
+    "name": "user/1",
+    "autoload": {
+        "psr-4": {
+            "User\\1\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "chevvvehes"
+        }
+    ]
+}
